@@ -14,7 +14,7 @@ crossover rule generates Buy, Sell and Hold signals, and the Buy and Sell
 signals are labelled on the chart.
 
 ## Repository link
-[Paste your GitHub repository link here]
+(https://github.com/nahlanab22/BDA400_Assignment6)
 
 ## Files
 - `assignment06_Nahla.R`: the full R script (Shiny app)
